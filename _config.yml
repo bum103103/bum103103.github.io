@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "bum jun"
+  name             : "bumjun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " **hello**:) ."
+  bio              : "hello"
   location         : "Somewhere"
   email            :
   links:
