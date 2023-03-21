@@ -107,8 +107,8 @@ author:
   name             : "bumjun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "hello:)"
-  location         : "Somewhere"
-  email            :
+  location         : "home"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
